@@ -33,7 +33,7 @@ Windows: As admin open the anaconda prompt and run
 ```
 pip install ipython-sql
 ```
-Linux: 
+Linux:\
 download from https://github.com/catherinedevlin/ipython-sql and:
 ```
 cd ipython-sql

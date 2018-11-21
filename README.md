@@ -6,6 +6,11 @@ PostgreSQL using cell magic
 
 This project is a tutorial on PostgreSQL using SQL cell magic in Jupyterlab notebooks
 
+```
+%%sql
+(Your SQL statement)
+```
+
 The tutorial taken through is [this tutorial](http://www.postgresqltutorial.com/) and this [book](https://www.amazon.com/PostgreSQL-2nd-Korry-Douglas/dp/0672327562) by Korry Douglas:
 
 ## Getting Started
@@ -46,8 +51,8 @@ postgresql://username:password@hostname/dbname
 ```
 
 You can find examples like
-1.http://www.jamesloach.com/misc/sql_jupyter_basics.html
-2.https://github.com/catherinedevlin/ipython-sql
+1. http://www.jamesloach.com/misc/sql_jupyter_basics.html
+2. https://github.com/catherinedevlin/ipython-sql
 
 
 Use can now use %%sql cell magic in the cells to manupilate the database within the notebook.
@@ -59,5 +64,5 @@ Use can now use %%sql cell magic in the cells to manupilate the database within 
 
 ## Acknowledgments
 
-* To Pondi Brian and Wanjohi Kibui my GIS mentors.
+* To all my LinkedIn connections for your support.
 

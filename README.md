@@ -1,15 +1,16 @@
 # PostgreSQL-tutorial
 PostgreSQL tutorial using notebook SQL cell magic.
 # SQL Magic
-PostgreSQL using cell magic 
-## Jupyterlab PostgreSQL tutorial
-
-This project is a tutorial on PostgreSQL using SQL cell magic in Jupyterlab notebooks
+PostgreSQL using cell magic
 
 ```
 %%sql
 (Your SQL statement)
 ```
+
+## Jupyterlab PostgreSQL tutorial
+
+This project is a tutorial on PostgreSQL using SQL cell magic in Jupyterlab notebooks
 
 The tutorial taken through is [this tutorial](http://www.postgresqltutorial.com/) and this [book](https://www.amazon.com/PostgreSQL-2nd-Korry-Douglas/dp/0672327562) by Korry Douglas:
 
